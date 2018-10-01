@@ -10,7 +10,8 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 
 ## To Run:
 
-**Note**: the resources will not be uploaded to GitHub.
+**Note**: the resources (images) will not be uploaded to GitHub.
+
 
 1. Clone the repo
 1. Install dependencies
