@@ -4,8 +4,10 @@ Tutorial from the book _Python Crash Course_
 
 ## Dependencies
 
-* matplotlib: ```pip install matplotlib```
-* Pygal: formatting visualizations for devices
+* matplotlib: Creates graphs and scatter plots
+  * ```pip install matplotlib```
+* Pygal: Creates vector graphics
+  * ```pip install --user pygal```
 
 ## To Run:
 
